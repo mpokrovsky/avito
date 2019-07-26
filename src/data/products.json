@@ -1,0 +1,498 @@
+[
+    {
+        "address": {
+            "lat": 57.2071815,
+            "lng": 32.5979023
+        },
+        "category": "auto",
+        "title": "универсал BMX",
+        "price": 983823,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=8",
+            "//loremflickr.com/400/400/auto,interior?random=25",
+            "//loremflickr.com/400/400/auto,interior?random=32"
+        ],
+        "body_type": "hatchback",
+        "gearbox": "automatic",
+        "year": 2005,
+        "relationships": {
+            "seller": "1"
+        },
+        "id": "0"
+    },
+    {
+        "address": {
+            "lat": 55.779148,
+            "lng": 37.556777
+        },
+        "category": "laptops",
+        "title": "ноутбук Lenobo",
+        "price": 371859,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=24",
+            "//loremflickr.com/400/400/laptop?random=50",
+            "//loremflickr.com/400/400/laptop?random=76",
+            "//loremflickr.com/400/400/laptop?random=51"
+        ],
+        "laptop_type": "home",
+        "processor": "i3",
+        "ram": "4",
+        "screen": "14",
+        "relationships": {
+            "seller": "16"
+        },
+        "id": "1"
+    },
+    {
+        "address": {
+            "lat": 56.0038072,
+            "lng": 92.8096117
+        },
+        "category": "auto",
+        "title": "кроссовер Audie",
+        "price": 1377513,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=63",
+            "//loremflickr.com/400/400/auto,interior?random=63",
+            "//loremflickr.com/400/400/auto,interior?random=39",
+            "//loremflickr.com/400/400/auto,interior?random=16",
+            "//loremflickr.com/400/400/auto,interior?random=16",
+            "//loremflickr.com/400/400/auto,interior?random=80"
+        ],
+        "body_type": "suv",
+        "gearbox": "automatic",
+        "year": 2002,
+        "relationships": {
+            "seller": "0"
+        },
+        "id": "2"
+    },
+    {
+        "address": {
+            "lat": 54.7211838,
+            "lng": 20.545797
+        },
+        "category": "cameras",
+        "title": "цифровой фотоаппарат Leyka",
+        "price": 1805633,
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=55",
+            "//loremflickr.com/400/400/camera?random=63",
+            "//loremflickr.com/400/400/camera?random=87",
+            "//loremflickr.com/400/400/camera?random=44",
+            "//loremflickr.com/400/400/camera?random=33",
+            "//loremflickr.com/400/400/camera?random=38"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 12,
+        "video_resolution": "4K",
+        "relationships": {
+            "seller": "5"
+        },
+        "id": "3"
+    },
+    {
+        "address": {
+            "lat": 57.2071815,
+            "lng": 32.5979023
+        },
+        "category": "immovable",
+        "title": "квартира 2 комнаты, 75 кв.м.",
+        "pictures": [
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=56",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=52",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=5",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=99"
+        ],
+        "property_type": "flat",
+        "rooms": 2,
+        "square": 74,
+        "relationships": {
+            "seller": "12"
+        },
+        "id": "4"
+    },
+    {
+        "address": {
+            "lat": 55.9231845,
+            "lng": 37.8094879
+        },
+        "category": "laptops",
+        "title": "ультрабук Racer",
+        "price": 1696126,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=48",
+            "//loremflickr.com/400/400/laptop?random=82",
+            "//loremflickr.com/400/400/laptop?random=62",
+            "//loremflickr.com/400/400/laptop?random=49",
+            "//loremflickr.com/400/400/laptop?random=82",
+            "//loremflickr.com/400/400/laptop?random=70"
+        ],
+        "laptop_type": "home",
+        "processor": "i3",
+        "ram": "8",
+        "screen": "14",
+        "relationships": {
+            "seller": "15"
+        },
+        "id": "5"
+    },
+    {
+        "address": {
+            "lat": 51.767746,
+            "lng": 36.174474
+        },
+        "category": "laptops",
+        "title": "ноутбук Lenobo",
+        "price": 181072,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=72",
+            "//loremflickr.com/400/400/laptop?random=42",
+            "//loremflickr.com/400/400/laptop?random=1",
+            "//loremflickr.com/400/400/laptop?random=91",
+            "//loremflickr.com/400/400/laptop?random=41",
+            "//loremflickr.com/400/400/laptop?random=77"
+        ],
+        "laptop_type": "professional",
+        "processor": "i5",
+        "ram": "8",
+        "screen": "14",
+        "relationships": {
+            "seller": "16"
+        },
+        "id": "6"
+    },
+    {
+        "address": {
+            "lat": 59.9210483,
+            "lng": 30.3507891
+        },
+        "category": "immovable",
+        "title": "квартира 1 комната, 34 кв.м.",
+        "price": 441885,
+        "pictures": [
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=52",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=20",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=67",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=40",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=49"
+        ],
+        "property_type": "flat",
+        "rooms": 2,
+        "square": 71,
+        "relationships": {
+            "seller": "13"
+        },
+        "id": "7"
+    },
+    {
+        "address": {
+            "lat": 59.9395605,
+            "lng": 30.3771971
+        },
+        "category": "immovable",
+        "title": "апартаменты 2 комнаты, 75 кв.м.",
+        "price": 725444,
+        "pictures": [
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=29",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=12",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=11",
+            "//loremflickr.com/400/400/interior,apartment,luxury?random=33"
+        ],
+        "property_type": "apartment",
+        "rooms": 2,
+        "square": 32,
+        "relationships": {
+            "seller": "11"
+        },
+        "id": "8"
+    },
+    {
+        "address": {
+            "lat": 54.1241384,
+            "lng": 26.4324806
+        },
+        "category": "laptops",
+        "title": "ультрабук Racer",
+        "price": 1774884,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=12",
+            "//loremflickr.com/400/400/laptop?random=9",
+            "//loremflickr.com/400/400/laptop?random=16",
+            "//loremflickr.com/400/400/laptop?random=19",
+            "//loremflickr.com/400/400/laptop?random=8"
+        ],
+        "laptop_type": "professional",
+        "processor": "i3",
+        "ram": "8",
+        "screen": "15",
+        "relationships": {
+            "seller": "15"
+        },
+        "id": "9"
+    },
+    {
+        "address": {
+            "lat": 55.8224199,
+            "lng": 37.5155853
+        },
+        "category": "auto",
+        "title": "кроссовер Chevron",
+        "price": 1672387,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=65",
+            "//loremflickr.com/400/400/auto,interior?random=67",
+            "//loremflickr.com/400/400/auto,interior?random=43"
+        ],
+        "body_type": "sedan",
+        "gearbox": "automatic",
+        "year": 2010,
+        "relationships": {
+            "seller": "3"
+        },
+        "id": "10"
+    },
+    {
+        "address": {
+            "lat": 57.2071815,
+            "lng": 32.5979023
+        },
+        "category": "laptops",
+        "title": "ультрабук Racer",
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=84",
+            "//loremflickr.com/400/400/laptop?random=46",
+            "//loremflickr.com/400/400/laptop?random=11",
+            "//loremflickr.com/400/400/laptop?random=13"
+        ],
+        "laptop_type": "home",
+        "processor": "i3",
+        "ram": "8",
+        "screen": "14",
+        "relationships": {
+            "seller": "15"
+        },
+        "id": "11"
+    },
+    {
+        "address": {
+            "lat": 55.795288,
+            "lng": 37.684008
+        },
+        "category": "cameras",
+        "title": "цифровой фотоаппарат Cannot",
+        "price": 1187597,
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=37",
+            "//loremflickr.com/400/400/camera?random=38",
+            "//loremflickr.com/400/400/camera?random=29",
+            "//loremflickr.com/400/400/camera?random=53",
+            "//loremflickr.com/400/400/camera?random=88",
+            "//loremflickr.com/400/400/camera?random=85"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 18,
+        "video_resolution": "Full HD",
+        "relationships": {
+            "seller": "6"
+        },
+        "id": "12"
+    },
+    {
+        "address": {
+            "lat": 51.767746,
+            "lng": 36.174474
+        },
+        "category": "auto",
+        "title": "кроссовер BMX",
+        "price": 914177,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=69",
+            "//loremflickr.com/400/400/auto,interior?random=15",
+            "//loremflickr.com/400/400/auto,interior?random=12"
+        ],
+        "body_type": "sedan",
+        "gearbox": "automatic",
+        "year": 1999,
+        "relationships": {
+            "seller": "0"
+        },
+        "id": "13"
+    },
+    {
+        "address": {
+            "lat": 59.2033544,
+            "lng": 29.1669852
+        },
+        "category": "cameras",
+        "title": "цифровой фотоаппарат Cannot",
+        "price": 433127,
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=76",
+            "//loremflickr.com/400/400/camera?random=6",
+            "//loremflickr.com/400/400/camera?random=80"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 12,
+        "video_resolution": "Full HD",
+        "relationships": {
+            "seller": "7"
+        },
+        "id": "14"
+    },
+    {
+        "address": {
+            "lat": 59.9395605,
+            "lng": 30.3771971
+        },
+        "category": "auto",
+        "title": "универсал BMX",
+        "price": 1721871,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=26",
+            "//loremflickr.com/400/400/auto,interior?random=11",
+            "//loremflickr.com/400/400/auto,interior?random=20"
+        ],
+        "body_type": "hatchback",
+        "gearbox": "automatic",
+        "year": 2017,
+        "relationships": {
+            "seller": "2"
+        },
+        "id": "15"
+    },
+    {
+        "address": {
+            "lat": 55.945441,
+            "lng": 37.774773
+        },
+        "category": "laptops",
+        "title": "ноутбук Lenobo",
+        "price": 50214,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=28",
+            "//loremflickr.com/400/400/laptop?random=53",
+            "//loremflickr.com/400/400/laptop?random=55",
+            "//loremflickr.com/400/400/laptop?random=94"
+        ],
+        "laptop_type": "home",
+        "processor": "i5",
+        "ram": "8",
+        "screen": "13.3",
+        "relationships": {
+            "seller": "17"
+        },
+        "id": "16"
+    },
+    {
+        "address": {
+            "lat": 55.7814079,
+            "lng": 37.5526154
+        },
+        "category": "cameras",
+        "title": "зеркальный фотоаппарат Cannot",
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=94",
+            "//loremflickr.com/400/400/camera?random=80",
+            "//loremflickr.com/400/400/camera?random=72",
+            "//loremflickr.com/400/400/camera?random=43",
+            "//loremflickr.com/400/400/camera?random=86"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 17,
+        "video_resolution": "HD",
+        "relationships": {
+            "seller": "5"
+        },
+        "id": "17"
+    },
+    {
+        "address": {
+            "lat": 55.8224199,
+            "lng": 37.5155853
+        },
+        "category": "laptops",
+        "title": "ноутбук SONI",
+        "price": 614566,
+        "pictures": [
+            "//loremflickr.com/400/400/laptop?random=93",
+            "//loremflickr.com/400/400/laptop?random=31",
+            "//loremflickr.com/400/400/laptop?random=42",
+            "//loremflickr.com/400/400/laptop?random=93"
+        ],
+        "laptop_type": "professional",
+        "processor": "i3",
+        "ram": "4",
+        "screen": "14",
+        "relationships": {
+            "seller": "17"
+        },
+        "id": "18"
+    },
+    {
+        "address": {
+            "lat": 54.1241384,
+            "lng": 26.4324806
+        },
+        "category": "cameras",
+        "title": "зеркальный фотоаппарат Leyka",
+        "price": 1122177,
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=77",
+            "//loremflickr.com/400/400/camera?random=78",
+            "//loremflickr.com/400/400/camera?random=7"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 7,
+        "video_resolution": "Full HD",
+        "relationships": {
+            "seller": "7"
+        },
+        "id": "19"
+    },
+    {
+        "address": {
+            "lat": 59.9395605,
+            "lng": 30.3771971
+        },
+        "category": "cameras",
+        "title": "зеркальный фотоаппарат Cannot",
+        "price": 468733,
+        "pictures": [
+            "//loremflickr.com/400/400/camera?random=28",
+            "//loremflickr.com/400/400/camera?random=76",
+            "//loremflickr.com/400/400/camera?random=77",
+            "//loremflickr.com/400/400/camera?random=54",
+            "//loremflickr.com/400/400/camera?random=64",
+            "//loremflickr.com/400/400/camera?random=76"
+        ],
+        "camera_type": "slr",
+        "matrix_resolution": 11,
+        "video_resolution": "Full HD",
+        "relationships": {
+            "seller": "5"
+        },
+        "id": "20"
+    },
+    {
+        "address": {
+            "lat": 59.9210483,
+            "lng": 30.3507891
+        },
+        "category": "auto",
+        "title": "седан Audie",
+        "price": 439537,
+        "pictures": [
+            "//loremflickr.com/400/400/auto,interior?random=9",
+            "//loremflickr.com/400/400/auto,interior?random=10",
+            "//loremflickr.com/400/400/auto,interior?random=38"
+        ],
+        "body_type": "suv",
+        "gearbox": "automatic",
+        "year": 2014,
+        "relationships": {
+            "seller": "1"
+        },
+        "id": "21"
+    }
+]
