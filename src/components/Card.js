@@ -1,14 +1,13 @@
 import React from 'react';
-//import Seller from './Seller';
-//import Price from './Price';
-
-
-const sellersUrl = 'http://avito.dump.academy/sellers';
+import Price from './Price';
 
 
 export default class Card extends React.Component {
     render() {
-        const { title, pictures, price, relationships } = this.props.data;
+        const { title, pictures, price, relationships } = this.props.product;
+        const sellerID = relationships.seller;
+        //const sellerFound = this.props.sellers.find(i => i.id === sellerID);
+        
         return (
             <div className="card bg-light">
                 <img class="card-img-top" src={pictures[0]} alt="mainPicture" />
@@ -16,15 +15,14 @@ export default class Card extends React.Component {
                     <h5 class="card-title">{title}</h5>
                     <p class="card-text">
                         There are {pictures.length - 1} additional photos
-                
+                        
+
+                        <Price data={price} />
+                        
                     </p>
                     <a href="#" class="btn btn-primary">Add to favorites</a>
                 </div>
-
-
             </div>
         )
     }
 }
-//<Seller id={relationships.seller} data={sellersUrl} />
-//<Price data={price} />
