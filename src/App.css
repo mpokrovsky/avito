@@ -27,6 +27,6 @@
 }
 
 .container-fluid {
-  display: flex;
+  display: block;
 }
 
