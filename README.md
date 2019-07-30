@@ -1,5 +1,4 @@
 ## This is a simplified Avito page.
-<hr>
 
 Ads are loaded from API, and contain some info about the product, such as images, price, seller and his rating. You can sort them according to their category, price and popularity. Also adding to favirites is possible. 
 
