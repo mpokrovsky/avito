@@ -7,13 +7,13 @@ const ProductList = ({ data, sellers, updateData, favorites }) => {
     }
     const cards = data.map(product => {
         const sellerId = product.relationships.seller;
-        let seller = {name: 'nothing'};
-        for (let i of sellers) {
-            if (i.id === sellerId) {
-                seller = i;
-            }
-        }
-        //const seller = sellers.find(i => i.id === sellerId);
+        let seller = {};
+        for (let i of sellers) {            //const seller = sellers.find(i => i.id === sellerId);
+            if (i.id === sellerId) {        //
+                seller = i;                 //
+            }                               //
+        }                                   //
+        
         return <ProductCard product={product} key={product.id} seller={seller} updateData={updateData} favorites={favorites} />
     })
 

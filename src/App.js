@@ -49,7 +49,7 @@ export default class App extends React.Component {
             />
             <div style={{ paddingLeft: '10px' }}>
               <SortForm
-                initialData={this.initialData}
+                sellers={this.state.sellers}
                 data={this.state.data}
                 update={this.updateData.bind(this)}
               />
