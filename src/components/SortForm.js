@@ -4,7 +4,7 @@ class SortForm extends React.Component {
     constructor(props) {
         super(props);
         this.sorted = {
-            id: true,
+            seller: true,
             price: true
         };
     }
